@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load the trained model
-model = joblib.load("final_gb_classifier.pkl")
+model = joblib.load("Customer_churn_project/final_gb_classifier.pkl")
 
 # Function to preprocess input data
 def preprocess_input(data):
@@ -79,3 +79,4 @@ if st.button("Predict"):
         st.write("The customer is likely to churn.")
     else:
         st.write("The customer is likely to stay.")
+
