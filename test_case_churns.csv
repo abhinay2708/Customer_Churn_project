@@ -1,0 +1,7 @@
+,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,Prediction
+0,Female,0,Yes,No,1,Yes,Fiber optic,Month-to-month,75.0,75.0,Churn
+1,Male,0,No,No,36,Yes,DSL,One year,50.0,1800.0,No Churn
+2,Female,1,No,Yes,2,No,No,Month-to-month,20.0,40.0,Churn
+3,Male,1,Yes,Yes,60,Yes,Fiber optic,Two year,90.0,5400.0,No Churn
+4,Female,0,Yes,No,12,Yes,DSL,Month-to-month,55.0,660.0,Churn
+5,Male,0,No,No,24,Yes,No,One year,30.0,720.0,No Churn
